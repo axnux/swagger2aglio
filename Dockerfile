@@ -22,6 +22,5 @@ RUN echo "@testing http://dl-4.alpinelinux.org/alpine/edge/testing" >> /etc/apk/
 						py-pip \
 						bash
 
-CMD ["swagger2aglio", "--help"]
-
+# CMD ["swagger2aglio", "--help"]
 # docker build -t axnux/swagger2aglio:latest . #
