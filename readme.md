@@ -1,1 +1,1 @@
-# docker + alpine + nodejs + swagger2aglio
+# docker + debian + nodejs + swagger2aglio
